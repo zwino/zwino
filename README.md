@@ -1,29 +1,15 @@
 <h3 align="center">🖤 Full-Stack Developer </h3>
 ---
 
-### 🧩 Tech Arsenal:
+### 🧩 About Me :
 
 <p align="left">
 ₊‧.°.⋆✮⋆.°.‧₊<br>
 ❂ studying: French Literature and Culture <br>
 ❂ love interest: C++ • Cats • Books <br>
 ❂ occasionally: Chess • Poetry • Literary analysis <br>
-❂ interests: Literature • Programming • Design</p> <br>
+❂ interests: Literature • Programming • Design</p>
 ₊‧.°.⋆✮⋆.°.‧₊<br>
-
-
-### 🔗 Connect with Me:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/zainab-hassan-7a3268369/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Zainab%20Hassan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/zwino/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-zwino-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-</p>
-
----
 
 ### 📈 GitHub Stats:
 
