@@ -3,13 +3,13 @@
 
 ### 🧩 Tech Arsenal:
 
-<p align="center">
-₊‧.°.⋆✮⋆.°.‧₊
-❂ studying: French Literature and Culture
-❂ love interest: C++ • Cats • Books
-❂ occasionally: Chess • Poetry • Literary analysis 
-❂ interests: Literature • Programming • Design</p>
-₊‧.°.⋆✮⋆.°.‧₊
+<p align="left">
+₊‧.°.⋆✮⋆.°.‧₊<br>
+❂ studying: French Literature and Culture <br>
+❂ love interest: C++ • Cats • Books <br>
+❂ occasionally: Chess • Poetry • Literary analysis <br>
+❂ interests: Literature • Programming • Design</p> <br>
+₊‧.°.⋆✮⋆.°.‧₊<br>
 
 
 ### 🔗 Connect with Me:
