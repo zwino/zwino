@@ -4,10 +4,13 @@
 ### 🧩 Tech Arsenal:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs&theme=light&perline=8" alt="Tech Stack" />
-</p>
+₊‧.°.⋆✮⋆.°.‧₊
+❂ studying: French Literature and Culture
+❂ love interest: C++ • Cats • Books
+❂ occasionally: Chess • Poetry • Literary analysis 
+❂ interests: Literature • Programming • Design</p>
+₊‧.°.⋆✮⋆.°.‧₊
 
----
 
 ### 🔗 Connect with Me:
 
