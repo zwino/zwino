@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zainab123&show_icons=true&theme=tokyonight&hide_border=true" alt="Zainab's GitHub stats" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zainab123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 
